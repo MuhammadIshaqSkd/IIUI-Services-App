@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/font/abril_fatface.xml" value="0.234375" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/font/adamina.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout-land/about_us_fragment.xml" value="0.1859375" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout-land/activity_home.xml" value="0.13" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout-land/fragment_home.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout-land/fragment_slideshow.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/about_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/about_us_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/aboutus_fragment.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_bscs.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_bsit_courses.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_bsse.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_cources.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_forget_password.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_fyp.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_gpa_calculator.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_home_page.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_iiui_buses_routes.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_iiui_con.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_iiui_contact_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_iiui_hostel.xml" value="0.15" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_luncher.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_preverices_cgp_resulth.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_ratingbar.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/activity_registration.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/alert_dialog_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/app_bar_home_page.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/content_home_page.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/main_fragment.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/layout/nav_header_home_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/menu/home_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+        <entry key="..\:/Users/DELL/Desktop/IIUI SERIVCES/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1125" />
+        <entry key="..\:/Users/DELL/Desktop/app/src/main/res/layout/activity_main.xml" value="0.11730072463768115" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

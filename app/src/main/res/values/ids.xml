@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="hostal_img" type="id" />
+    <item name="text_hostal" type="id" />
+    <item name="card6" type="id" />
+    <item name="l3" type="id" />
+    <item name="imageView15" type="id" />
+    <item name="CGPA_text" type="id" />
+    <item name="CGPA" type="id" />
+    <item name="Total_CGPA_farm" type="id" />
+    <item name="Total_ch_farm" type="id" />
+    <item name="S1_G3" type="id" />
+    <item name="textView13" type="id" />
+    <item name="textView12" type="id" />
+</resources>

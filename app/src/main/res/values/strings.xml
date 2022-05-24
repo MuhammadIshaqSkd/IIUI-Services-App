@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">IIUI Services</string>
+    <string name="already_have_account_login">Already have Account? Login</string>
+    <string name="hostal_potal">Hostel Portal</string>
+    <string name="hostal_portal">Hostel Portal</string>
+    <string name="title_activity_home_page">Home_page</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="iiui_cgpa_amp_gpa_calculator"><![CDATA[IIUI CGPA & GPA Calculator]]></string>
+    <string name="grade">Grade</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Previous CGPA Calculations</string>
+    <string name="menu_slideshow">Rate us</string>
+    <string name="iiui_services">IIUI Services</string>
+    <string name="enter_your_e_mail">Enter Your E-mail</string>
+    <string name="send_email">Send Email</string>
+    <string name="lan">Lan</string>
+    <string name="courses">Courses</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="login">Login</string>
+    <string name="please_verify_your_email">Please verify your Email</string>
+    <string name="no_internet">No Internet</string>
+    <string name="please_check_your_internet_connection">Please check your internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="todo">TODO</string>
+    <string name="about_us">About Us</string>
+    <string name="_2021_international_islamic_university_islamabad_pakistan">2021 International Islamic University, Islamabad, Pakistan.</string>
+    <string name="muhammad_waheed_khan">Muhammad Waheed Khan</string>
+    <string name="malik_akmal_naseer">Malik Akmal Naseer</string>
+    <string name="previous_cgpa">Previous CGPA</string>
+    <string name="your_cgpa">Your CGPA</string>
+    <string name="total_credit_hour">Total credit hour</string>
+    <string name="your_gpa">Your GPA</string>
+    <string name="previous_calculation_resulth">Previous Calculation Resulth</string>
+    <string name="ratetext">ratetext</string>
+    <string name="submit">submit</string>
+    <string name="save_resulth">Save Resulth</string>
+    <string name="textview">TextView</string>
+</resources>
